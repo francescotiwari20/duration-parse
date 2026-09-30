@@ -1,6 +1,6 @@
 {
   "name": "duration-parse",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "convert strings like 2h30m to durations and format them for display",
   "type": "module",
   "main": "src/index.js",
